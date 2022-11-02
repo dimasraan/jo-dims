@@ -22,8 +22,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6281269024490']
-global.premium = ['6281269024490']
+global.owner = ['6287787342055']
+global.premium = ['6287787342055']
 global.packname = 'Virtex Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
